@@ -1,0 +1,14 @@
+Observables Subjects & behavioural Subjects
+Arry functions - map, filter, reduce, foreach indexOf find every, some
+
+Consider application make request to the server, the server collects the data from database or web api. Suppose the data is huge.
+
+Promises
+ In promise the server collects whole data and send it to application as response.
+
+Observables
+Its used to perform asynchronous operations and handle asynchronous data.
+In Observables server doesnt wait for the whole data to load, insteads the chunks of data to the application as the response.
+
+Asynchronous
+Its non blocking code which runs in background.
